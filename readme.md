@@ -9,6 +9,12 @@
 
 > 更直观的了解其中实现的效果
 
+
+<img src="./img/home.jpg"  width="400px" /> <img src="./img/shop.jpg"  width="400px"/>  
+
+<img src="./img/message.jpg"  width="400px" /> <img src="./img/my.jpg"  width="400px" />  
+
+
 ![](https://github.com/ymkiux/navigation/tree/master/img/home.jpg)
 
 ![](https://github.com/ymkiux/navigation/tree/master/img/shop.jpg)
